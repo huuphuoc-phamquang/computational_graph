@@ -1,5 +1,6 @@
 # 🎓 Dự đoán Điểm Cuối Kỳ bằng Đồ thị Tính toán
 > Phạm Quang Hữu Phước - 24521411
+
 > **CS523 – Cấu trúc Dữ liệu và Giải thuật**  
 > Trường Đại học Công nghệ Thông tin – ĐHQG TP.HCM
 
@@ -75,7 +76,6 @@ x ──→ [× w] ──→ z₁ ──→ [+ b] ──→ ŷ ──→ [− y]
 
 ## 🛠 Công nghệ
 
-- **Python** + NumPy (không dùng PyTorch/TensorFlow)
+- **Python** + NumPy 
 - **Matplotlib** cho trực quan hóa
 - **HTML/CSS/JS** cho web demo
-- **LaTeX** + TikZ cho báo cáo
